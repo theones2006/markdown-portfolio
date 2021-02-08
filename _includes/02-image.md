@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+img scr="http://placehold.it/240x80>[placeholder]
+## Please tell me if this works
